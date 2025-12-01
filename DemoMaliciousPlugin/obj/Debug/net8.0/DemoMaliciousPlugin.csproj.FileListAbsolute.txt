@@ -1,0 +1,17 @@
+C:\Users\John\source\repos\PluginDemoSolution\DemoMaliciousPlugin\bin\Debug\net8.0\DemoMaliciousPlugin.deps.json
+C:\Users\John\source\repos\PluginDemoSolution\DemoMaliciousPlugin\bin\Debug\net8.0\DemoMaliciousPlugin.runtimeconfig.json
+C:\Users\John\source\repos\PluginDemoSolution\DemoMaliciousPlugin\bin\Debug\net8.0\DemoMaliciousPlugin.dll
+C:\Users\John\source\repos\PluginDemoSolution\DemoMaliciousPlugin\bin\Debug\net8.0\DemoMaliciousPlugin.pdb
+C:\Users\John\source\repos\PluginDemoSolution\DemoMaliciousPlugin\bin\Debug\net8.0\PluginContractsTest.dll
+C:\Users\John\source\repos\PluginDemoSolution\DemoMaliciousPlugin\bin\Debug\net8.0\PluginContractsTest.pdb
+C:\Users\John\source\repos\PluginDemoSolution\DemoMaliciousPlugin\obj\Debug\net8.0\DemoMaliciousPlugin.csproj.AssemblyReference.cache
+C:\Users\John\source\repos\PluginDemoSolution\DemoMaliciousPlugin\obj\Debug\net8.0\DemoMaliciousPlugin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\John\source\repos\PluginDemoSolution\DemoMaliciousPlugin\obj\Debug\net8.0\DemoMaliciousPlugin.AssemblyInfoInputs.cache
+C:\Users\John\source\repos\PluginDemoSolution\DemoMaliciousPlugin\obj\Debug\net8.0\DemoMaliciousPlugin.AssemblyInfo.cs
+C:\Users\John\source\repos\PluginDemoSolution\DemoMaliciousPlugin\obj\Debug\net8.0\DemoMaliciousPlugin.csproj.CoreCompileInputs.cache
+C:\Users\John\source\repos\PluginDemoSolution\DemoMaliciousPlugin\obj\Debug\net8.0\DemoMali.5137A59D.Up2Date
+C:\Users\John\source\repos\PluginDemoSolution\DemoMaliciousPlugin\obj\Debug\net8.0\DemoMaliciousPlugin.dll
+C:\Users\John\source\repos\PluginDemoSolution\DemoMaliciousPlugin\obj\Debug\net8.0\refint\DemoMaliciousPlugin.dll
+C:\Users\John\source\repos\PluginDemoSolution\DemoMaliciousPlugin\obj\Debug\net8.0\DemoMaliciousPlugin.pdb
+C:\Users\John\source\repos\PluginDemoSolution\DemoMaliciousPlugin\obj\Debug\net8.0\DemoMaliciousPlugin.genruntimeconfig.cache
+C:\Users\John\source\repos\PluginDemoSolution\DemoMaliciousPlugin\obj\Debug\net8.0\ref\DemoMaliciousPlugin.dll

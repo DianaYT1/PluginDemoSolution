@@ -1,0 +1,14 @@
+C:\Users\John\source\repos\PluginDemoSolution\PluginContracts\bin\Debug\net8.0\PluginContracts.deps.json
+C:\Users\John\source\repos\PluginDemoSolution\PluginContracts\bin\Debug\net8.0\PluginContracts.runtimeconfig.json
+C:\Users\John\source\repos\PluginDemoSolution\PluginContracts\bin\Debug\net8.0\PluginContracts.dll
+C:\Users\John\source\repos\PluginDemoSolution\PluginContracts\bin\Debug\net8.0\PluginContracts.pdb
+C:\Users\John\source\repos\PluginDemoSolution\PluginContracts\obj\Debug\net8.0\PluginContracts.csproj.AssemblyReference.cache
+C:\Users\John\source\repos\PluginDemoSolution\PluginContracts\obj\Debug\net8.0\PluginContracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\John\source\repos\PluginDemoSolution\PluginContracts\obj\Debug\net8.0\PluginContracts.AssemblyInfoInputs.cache
+C:\Users\John\source\repos\PluginDemoSolution\PluginContracts\obj\Debug\net8.0\PluginContracts.AssemblyInfo.cs
+C:\Users\John\source\repos\PluginDemoSolution\PluginContracts\obj\Debug\net8.0\PluginContracts.csproj.CoreCompileInputs.cache
+C:\Users\John\source\repos\PluginDemoSolution\PluginContracts\obj\Debug\net8.0\PluginContracts.dll
+C:\Users\John\source\repos\PluginDemoSolution\PluginContracts\obj\Debug\net8.0\refint\PluginContracts.dll
+C:\Users\John\source\repos\PluginDemoSolution\PluginContracts\obj\Debug\net8.0\PluginContracts.pdb
+C:\Users\John\source\repos\PluginDemoSolution\PluginContracts\obj\Debug\net8.0\PluginContracts.genruntimeconfig.cache
+C:\Users\John\source\repos\PluginDemoSolution\PluginContracts\obj\Debug\net8.0\ref\PluginContracts.dll

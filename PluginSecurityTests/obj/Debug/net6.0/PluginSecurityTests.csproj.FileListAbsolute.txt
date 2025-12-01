@@ -1,0 +1,5 @@
+C:\Users\John\source\repos\PluginDemoSolution\PluginSecurityTests\obj\Debug\net6.0\PluginSecurityTests.csproj.AssemblyReference.cache
+C:\Users\John\source\repos\PluginDemoSolution\PluginSecurityTests\obj\Debug\net6.0\PluginSecurityTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\John\source\repos\PluginDemoSolution\PluginSecurityTests\obj\Debug\net6.0\PluginSecurityTests.AssemblyInfoInputs.cache
+C:\Users\John\source\repos\PluginDemoSolution\PluginSecurityTests\obj\Debug\net6.0\PluginSecurityTests.AssemblyInfo.cs
+C:\Users\John\source\repos\PluginDemoSolution\PluginSecurityTests\obj\Debug\net6.0\PluginSecurityTests.csproj.CoreCompileInputs.cache

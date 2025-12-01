@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\John\\source\\repos\\PluginDemoSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5863A668-73E7-4CB4-90D9-48D05AEC3159}|SecureSandboxRunner\\SecureSandboxRunner.csproj|c:\\users\\john\\source\\repos\\plugindemosolution\\securesandboxrunner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5863A668-73E7-4CB4-90D9-48D05AEC3159}|SecureSandboxRunner\\SecureSandboxRunner.csproj|solutionrelative:securesandboxrunner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5747377D-2DE4-4994-84FB-9609820E9F5F}|VulnerablePluginHost\\VulnerablePluginHost.csproj|c:\\users\\john\\source\\repos\\plugindemosolution\\vulnerablepluginhost\\pluginloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5747377D-2DE4-4994-84FB-9609820E9F5F}|VulnerablePluginHost\\VulnerablePluginHost.csproj|solutionrelative:vulnerablepluginhost\\pluginloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5747377D-2DE4-4994-84FB-9609820E9F5F}|VulnerablePluginHost\\VulnerablePluginHost.csproj|C:\\Users\\John\\source\\repos\\PluginDemoSolution\\vulnerablepluginhost\\secrets\\secret.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5747377D-2DE4-4994-84FB-9609820E9F5F}|VulnerablePluginHost\\VulnerablePluginHost.csproj|solutionrelative:vulnerablepluginhost\\secrets\\secret.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90B87BEA-83B5-4EF1-B359-9367F7E8E449}|PluginSecurityTests\\PluginSecurityTests.csproj|c:\\users\\john\\source\\repos\\plugindemosolution\\pluginsecuritytests\\unsignedplugintests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90B87BEA-83B5-4EF1-B359-9367F7E8E449}|PluginSecurityTests\\PluginSecurityTests.csproj|solutionrelative:pluginsecuritytests\\unsignedplugintests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\John\\source\\repos\\PluginDemoSolution\\SecureSandboxRunner\\Program.cs",
+              "RelativeDocumentMoniker": "SecureSandboxRunner\\Program.cs",
+              "ToolTip": "C:\\Users\\John\\source\\repos\\PluginDemoSolution\\SecureSandboxRunner\\Program.cs",
+              "RelativeToolTip": "SecureSandboxRunner\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T08:44:10.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PluginLoader.cs",
+              "DocumentMoniker": "C:\\Users\\John\\source\\repos\\PluginDemoSolution\\VulnerablePluginHost\\PluginLoader.cs",
+              "RelativeDocumentMoniker": "VulnerablePluginHost\\PluginLoader.cs",
+              "ToolTip": "C:\\Users\\John\\source\\repos\\PluginDemoSolution\\VulnerablePluginHost\\PluginLoader.cs",
+              "RelativeToolTip": "VulnerablePluginHost\\PluginLoader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T08:43:42.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UnsignedPluginTests.cs",
+              "DocumentMoniker": "C:\\Users\\John\\source\\repos\\PluginDemoSolution\\PluginSecurityTests\\UnsignedPluginTests.cs",
+              "RelativeDocumentMoniker": "PluginSecurityTests\\UnsignedPluginTests.cs",
+              "ToolTip": "C:\\Users\\John\\source\\repos\\PluginDemoSolution\\PluginSecurityTests\\UnsignedPluginTests.cs",
+              "RelativeToolTip": "PluginSecurityTests\\UnsignedPluginTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T07:38:59.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "secret.txt",
+              "DocumentMoniker": "C:\\Users\\John\\source\\repos\\PluginDemoSolution\\VulnerablePluginHost\\secrets\\secret.txt",
+              "RelativeDocumentMoniker": "VulnerablePluginHost\\secrets\\secret.txt",
+              "ToolTip": "C:\\Users\\John\\source\\repos\\PluginDemoSolution\\VulnerablePluginHost\\secrets\\secret.txt",
+              "RelativeToolTip": "VulnerablePluginHost\\secrets\\secret.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-11-30T16:07:33.839Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+C:\Users\John\source\repos\PluginDemoSolution\PluginContracts\obj\Debug\net6.0\PluginContracts.csproj.AssemblyReference.cache
+C:\Users\John\source\repos\PluginDemoSolution\PluginContracts\obj\Debug\net6.0\PluginContracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\John\source\repos\PluginDemoSolution\PluginContracts\obj\Debug\net6.0\PluginContracts.AssemblyInfoInputs.cache
+C:\Users\John\source\repos\PluginDemoSolution\PluginContracts\obj\Debug\net6.0\PluginContracts.AssemblyInfo.cs
+C:\Users\John\source\repos\PluginDemoSolution\PluginContracts\obj\Debug\net6.0\PluginContracts.csproj.CoreCompileInputs.cache

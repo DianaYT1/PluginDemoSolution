@@ -1,0 +1,5 @@
+C:\Users\John\source\repos\PluginDemoSolution\DemoMaliciousPlugin\obj\Debug\net6.0\DemoMaliciousPlugin.csproj.AssemblyReference.cache
+C:\Users\John\source\repos\PluginDemoSolution\DemoMaliciousPlugin\obj\Debug\net6.0\DemoMaliciousPlugin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\John\source\repos\PluginDemoSolution\DemoMaliciousPlugin\obj\Debug\net6.0\DemoMaliciousPlugin.AssemblyInfoInputs.cache
+C:\Users\John\source\repos\PluginDemoSolution\DemoMaliciousPlugin\obj\Debug\net6.0\DemoMaliciousPlugin.AssemblyInfo.cs
+C:\Users\John\source\repos\PluginDemoSolution\DemoMaliciousPlugin\obj\Debug\net6.0\DemoMaliciousPlugin.csproj.CoreCompileInputs.cache

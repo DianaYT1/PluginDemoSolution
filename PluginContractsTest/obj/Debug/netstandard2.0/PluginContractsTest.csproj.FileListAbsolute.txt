@@ -1,0 +1,10 @@
+C:\Users\John\source\repos\PluginDemoSolution\PluginContractsTest\bin\Debug\netstandard2.0\PluginContractsTest.deps.json
+C:\Users\John\source\repos\PluginDemoSolution\PluginContractsTest\bin\Debug\netstandard2.0\PluginContractsTest.dll
+C:\Users\John\source\repos\PluginDemoSolution\PluginContractsTest\bin\Debug\netstandard2.0\PluginContractsTest.pdb
+C:\Users\John\source\repos\PluginDemoSolution\PluginContractsTest\obj\Debug\netstandard2.0\PluginContractsTest.csproj.AssemblyReference.cache
+C:\Users\John\source\repos\PluginDemoSolution\PluginContractsTest\obj\Debug\netstandard2.0\PluginContractsTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\John\source\repos\PluginDemoSolution\PluginContractsTest\obj\Debug\netstandard2.0\PluginContractsTest.AssemblyInfoInputs.cache
+C:\Users\John\source\repos\PluginDemoSolution\PluginContractsTest\obj\Debug\netstandard2.0\PluginContractsTest.AssemblyInfo.cs
+C:\Users\John\source\repos\PluginDemoSolution\PluginContractsTest\obj\Debug\netstandard2.0\PluginContractsTest.csproj.CoreCompileInputs.cache
+C:\Users\John\source\repos\PluginDemoSolution\PluginContractsTest\obj\Debug\netstandard2.0\PluginContractsTest.dll
+C:\Users\John\source\repos\PluginDemoSolution\PluginContractsTest\obj\Debug\netstandard2.0\PluginContractsTest.pdb
